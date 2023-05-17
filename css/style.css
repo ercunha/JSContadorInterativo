@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(106, 106, 228);
+    color: #fff;
+}
+
+section{
+    background-color: #fff;
+    color: #000;
+    border-radius: 12px;
+}
